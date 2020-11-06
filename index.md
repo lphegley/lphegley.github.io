@@ -15,3 +15,8 @@ This is a way to make unordered lists:
 This is an ordered list: 
 1. First item in ordered list
 1. Second item in an ordered list. I am suprised that this will continue to be ordered even if we don't put a number two
+
+
+Now I will add in a figure
+
+![this is alt text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
