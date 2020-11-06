@@ -20,3 +20,14 @@ This is an ordered list:
 Now I will add in a figure
 
 ![this is alt text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+
+
+
+Adding in another photo: 
+
+![alt photo](https://github.com/lphegley/lphegley.github.io/blob/main/cute-hedgehogs-in-crown.jpg)
+
+
+#### Last Thing
+
+Adding in a link [this is a link to the Hello World GitHub Guide](https://guides.github.com/activities/hello-world/)
