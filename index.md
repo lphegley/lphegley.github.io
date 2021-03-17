@@ -21,6 +21,7 @@ Now I will add in a figure
 
 ![this is alt text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
 
+![cute snake](https://github.com/lphegley/lphegley.github.io/blob/main/birthday-piece-of-me-meme_499-375.jpeg?raw=true)
 
 
 Adding in another photo: 
